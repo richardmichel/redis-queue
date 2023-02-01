@@ -1,0 +1,25 @@
+{
+  "name": "richardmichel/redis-queue",
+  "keywords": [
+    "richardmichel",
+    "laravel"
+  ],
+  "type": "library",
+  "license": "MIT",
+  "require": {
+    "php": "^8.1",
+    "illuminate/support": "^8.0.0"
+  },
+  "authors": [
+    {
+      "name": "MichelNogales",
+      "email": "michelnogales@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "MichiHelper\\Common\\": "src/"
+    }
+  }
+}
