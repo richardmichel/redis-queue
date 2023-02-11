@@ -16,7 +16,6 @@
       "email": "michelnogales@gmail.com"
     }
   ],
-  "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
       "MichiHelper\\Common\\": "src/"
